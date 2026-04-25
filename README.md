@@ -1,4 +1,4 @@
-# 🕒 Wizdaa - Time Off Microservice
+#  Wizdaa - Time Off Microservice
 
 A lightweight **Time Off management API** built with **Node.js + Express**, containerized with **Docker**.
 
