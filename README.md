@@ -6,7 +6,7 @@ The system simulates employee leave management, including balance synchronizatio
 
 ---
 
-# 🚀 Purpose
+ Purpose
 
 This project demonstrates:
 
@@ -18,7 +18,7 @@ This project demonstrates:
 
 ---
 
-# 🧠 Architecture
+ Architecture
 
 The project follows a simple layered structure:
 
